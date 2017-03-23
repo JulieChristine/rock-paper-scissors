@@ -1,5 +1,3 @@
-require('pry')
-
 class String
   define_method(:beats) do |argument|
     player1 = self
